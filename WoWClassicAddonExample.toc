@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: WoWClassicAddonExample
+## Author: Corey Burmeister <burmeister.corey@gmail.com>
+## Notes: Demonstrates an example addon for World of Warcraft Classic.
+## Version: 1.0
+
+WoWClassicAddonExample.lua
